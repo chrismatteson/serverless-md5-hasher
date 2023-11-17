@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@azure/functions": "^4.1.0",
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.1"
+  }
+}
